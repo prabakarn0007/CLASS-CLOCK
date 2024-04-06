@@ -16,8 +16,7 @@ Welcome to the Class Clock HTML project! This project aims to create a visually 
 
 ## Preview
 
-![Class Clock Preview](Screenshot (10).png)
-
+![[Class Clock Preview](https://github.com/prabakarn0007/CLASS-CLOCK/blob/main/Screenshot%20(10).png)](Screenshot (10).png)
 ## Credits
 
 - **Author:** [PRABAKARAN R]([https://github.com/yourusername](https://github.com/prabakarn0007))
