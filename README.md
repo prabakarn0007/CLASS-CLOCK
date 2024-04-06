@@ -16,7 +16,7 @@ Welcome to the Class Clock HTML project! This project aims to create a visually 
 
 ## Preview
 
-![Class Clock Preview](preview.png)
+![Class Clock Preview](Screenshot (10).png)
 
 ## Credits
 
